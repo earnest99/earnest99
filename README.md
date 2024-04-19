@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width="94%"/>
 
 # Earnest Young Whan Kim
 
@@ -24,7 +24,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="94%"/>
 
 <!---
 earnest99/earnest99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
