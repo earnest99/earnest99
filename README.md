@@ -1,4 +1,6 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=53B8EC&height=200&text=Hi,%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=ChangJun's%20GitHub&descAlign=70.&descAlignY=44)
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=53B8EC&height=200&text=Hi,%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Earnest's%20GitHub&descAlign=70.&descAlignY=44" alt="slice">
+</p>
 
 
 # Earnest Young Whan Kim
